@@ -1,0 +1,40 @@
+#register-form {
+    background-image: url("../img/shopping_bags.jpg");
+    background-size: cover;
+    padding: 20px 25px 30px;
+    margin-top: 30px;
+}
+
+#register-form-card {
+    width: 30%; 
+    padding: 20px 25px 30px;
+    margin: 0 auto 25px; 
+    margin-top: 50px;
+}
+
+#signin-form {
+    background-image: url("../img/cart.jpg");
+    background-size: cover;
+    padding: 20px 25px 30px;
+}
+
+
+#signin-form-card {
+    width: 30%; 
+    padding: 20px 25px 30px;
+    margin: 0 auto 25px; 
+    margin-top: 100px;
+    margin-bottom: 100px
+}
+
+#index-main-card {
+    width: 90%;
+    margin: auto;
+    margin-top: 150px;
+}
+
+#index-body {
+    background-image: url("../img/misc.jpg");
+    background-size: repeat;
+}
+
